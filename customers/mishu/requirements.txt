@@ -1,0 +1,7 @@
+playwright
+pytest
+pytest-mock
+pytest-playwright
+openpyxl 
+pandas
+regex
